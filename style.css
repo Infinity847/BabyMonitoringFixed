@@ -1,0 +1,16 @@
+h1,h2,h3,h4,h5,h6,p {
+    color:white;
+    font-family:arial;
+}
+body {
+    background-color:lightgrey;
+    text-align:center;
+}
+canvas {
+    border:2px solid grey;
+    border-radius:15px;
+    box-shadow:5px 5px 38px grey;
+}
+#heading {
+    width:100%;
+}
